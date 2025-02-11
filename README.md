@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Enzo Aparicio  
 🎓 **Analista en Informática** | 📚 **Estudiante de Ingeniería en Informática**  
-💻 **Backend Developer** | Node.js | PostgreSQL | ReactJS  
+💻 **Full Stack Developer**  
 
-Soy un apasionado del desarrollo backend y la arquitectura de software. Actualmente, estoy buscando oportunidades para crecer en el mundo de la tecnología y aplicar mis conocimientos.  
+Soy un apasionado del desarrollo full stack y la arquitectura de software. Actualmente, estoy buscando oportunidades para crecer en el mundo de la tecnología y aplicar mis conocimientos.  
 
 ---
 
@@ -17,8 +17,8 @@ Soy un apasionado del desarrollo backend y la arquitectura de software. Actualme
 ---
 
 ## 📌 Proyectos Destacados  
-🔹 **[Sistema de Casos de Éxitos (Globant)](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
-💡 Aplicación desarrollada con **Node.js y PostgreSQL** para gestionar casos de éxito en Globant.  
+🔹 **[Sistema de Casos de Éxitos Backend(Globant)](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
+💡 Aplicación desarrollada con **React.js y PostgreSQL** para gestionar casos de éxito en Globant.  
 
 🔹 **[Aplicación Guía REST](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
 📱 Proyecto full-stack con **React y Node.js** para recomendar restaurantes y lugares de comida.  
