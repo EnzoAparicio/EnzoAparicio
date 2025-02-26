@@ -6,7 +6,7 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software. Actua
 
 ---
 
-## Skills
+## 🚀 Skills
 
 ### Core
 
@@ -17,14 +17,19 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software. Actua
 ### Front End
 
 <p align="left">
-</a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 ### Backend
 
 <p align="left">
-</a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+---
+
+## 📊 Lenguajes Más Usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAparicio&layout=compact&theme=dark)
 
 ---
 
@@ -37,8 +42,14 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software. Actua
 
 ---
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAparicio&layout=compact&theme=dark)
+## 📈 Estadísticas de GitHub  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EnzoAparicio&show_icons=true&theme=dark&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoAparicio&theme=dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EnzoAparicio&theme=github-dark)
+
+---
 
 ## 📫 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Aparicio-blue?logo=linkedin)](https://www.linkedin.com/in/enzo-aparicio-604435270/)  
 ✉️ **Correo:** enzuii@hotmail.com  
+![Visitas al perfil](https://komarev.com/ghpvc/?username=EnzoAparicio&color=blue)
