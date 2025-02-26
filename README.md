@@ -6,6 +6,15 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software. Actua
 
 ---
 
+## 📌 Proyectos Destacados  
+🔹 **[Sistema de Casos de Éxitos Backend(Globant)](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
+💡 Aplicación desarrollada con **React.js y PostgreSQL** para gestionar casos de éxito en Globant.  
+
+🔹 **[Aplicación Guía REST](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
+📱 Proyecto full-stack con **React y Node.js** para recomendar restaurantes y lugares de comida.  
+
+---
+
 ## 🚀 Skills
 
 ### Core
@@ -28,19 +37,6 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software. Actua
 
 ---
 
-## 📊 Lenguajes Más Usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAparicio&layout=compact&theme=dark)
-
----
-
-## 📌 Proyectos Destacados  
-🔹 **[Sistema de Casos de Éxitos Backend(Globant)](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
-💡 Aplicación desarrollada con **React.js y PostgreSQL** para gestionar casos de éxito en Globant.  
-
-🔹 **[Aplicación Guía REST](https://github.com/EnzoAparicio/NOMBRE_DEL_REPO)**  
-📱 Proyecto full-stack con **React y Node.js** para recomendar restaurantes y lugares de comida.  
-
----
 
 ## 📫 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Aparicio-blue?logo=linkedin)](https://www.linkedin.com/in/enzo-aparicio/)
