@@ -1,7 +1,7 @@
 # Soy Enzo Aparicio  
  **Analista en Informática** |  **Estudiante de Ingeniería en Informática**  
 
-Soy un apasionado del desarrollo full stack y la arquitectura de software con experiencia en tecnologías frontend y backend. Actualmente, estoy buscando oportunidades en desarrollo web y aplicaciones empresariales donde pueda aplicar mis conocimientos en React, Node.js y bases de datos relacionales.
+Soy un apasionado del desarrollo full stack y la arquitectura de software con experiencia en tecnologías frontend y backend. Actualmente, estoy buscando oportunidades en desarrollo web y aplicaciones empresariales donde pueda aplicar mis conocimientos.
 
 ---
 
@@ -11,7 +11,7 @@ Soy un apasionado del desarrollo full stack y la arquitectura de software con ex
 Aplicación desarrollada para gestionar y mostrar casos de éxito en Globant.
 
 **Repositorios:**
-- [Frontend](https://github.com/EnzoAparicio/success-case-front) - Interfaz de usuario desarrollada en React
+- [Frontend](https://github.com/EnzoAparicio/success-case-front) - Interfaz de usuario desarrollada en ReactJS
 - [Backend](https://github.com/EnzoAparicio/success-case-back) - API REST y servicios
 
 **Tecnologías:** 
@@ -21,6 +21,17 @@ Aplicación desarrollada para gestionar y mostrar casos de éxito en Globant.
 - **Despliegue:** Docker, AWS
 
 **Mi rol:** Desarrollé la arquitectura backend y los endpoints REST, implementé el modelo de datos relacional y colaboré en la integración con el frontend.
+
+### 🔹 **[FoodGuide - Aplicación Guía REST](https://github.com/EnzoAparicio/food-guide-app)**  
+Plataforma que permite a los usuarios descubrir, calificar y obtener recomendaciones personalizadas de restaurantes.
+
+**Tecnologías:**
+- **Frontend:** React, Bootstrap, Mapbox API
+- **Backend:** Node.js, Express, JWT para autenticación
+- **Base de datos:** MongoDB
+- **Características:** Geolocalización, sistema de reseñas, perfiles de usuario
+
+**Mi rol:** Desarrollé el frontend completo, implementé el sistema de autenticación y trabajé en la integración de APIs externas.
 
 ### 🔹 **[FoodGuide - Aplicación Guía REST](https://github.com/EnzoAparicio/food-guide-app)**  
 Plataforma que permite a los usuarios descubrir, calificar y obtener recomendaciones personalizadas de restaurantes.
