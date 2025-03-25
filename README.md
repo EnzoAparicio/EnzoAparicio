@@ -18,18 +18,20 @@ Aplicación desarrollada para gestionar y mostrar casos de éxito en Globant.
 - **Frontend:** React.js, Redux, Material UI
 - **Backend:** Node.js, Express
 - **Base de datos:** PostgreSQL
-- **Despliegue:** Docker, AWS
 
 **Mi rol:** Desarrollé la arquitectura backend y los endpoints REST, implementé el modelo de datos relacional y colaboré en la integración con el frontend.
 
-### 🔹 **[FoodGuide - Aplicación Guía REST](https://github.com/EnzoAparicio/food-guide-app)**  
-Plataforma que permite a los usuarios descubrir, calificar y obtener recomendaciones personalizadas de restaurantes.
+### 🔹 **PencaUCU - Aplicación web de predicciones de partidos de fútbol**  
+Plataforma que permite a los usuarios predecir resultados y cantidad de goles en partidos de fútbol. 
+
+**Repositorios:**
+- [Frontend](https://github.com/EnzoAparicio/penca-ucu-front) - Interfaz de usuario desarrollada en ReactJS
+- [Backend](https://github.com/EnzoAparicio/penca-ucu-back) - API REST y servicios
 
 **Tecnologías:**
-- **Frontend:** React, Bootstrap, Mapbox API
-- **Backend:** Node.js, Express, JWT para autenticación
-- **Base de datos:** MongoDB
-- **Características:** Geolocalización, sistema de reseñas, perfiles de usuario
+- **Frontend:** React, Material UI
+- **Backend:** Node.js, Express
+- **Base de datos:** MySQL
 
 **Mi rol:** Desarrollé el frontend completo, implementé el sistema de autenticación y trabajé en la integración de APIs externas.
 
