@@ -3,50 +3,63 @@
 
 Soy un apasionado del desarrollo full stack y la arquitectura de software con experiencia en tecnologías frontend y backend. Actualmente, estoy buscando oportunidades en desarrollo web y aplicaciones empresariales donde pueda aplicar mis conocimientos.
 
----
+
 
 ## 📌 Proyectos Destacados  
 
-### 🔹 **Sistema de Casos de Éxitos - Globant**  
-Aplicación desarrollada para gestionar y mostrar casos de éxito en Globant.
+### 🔹 **[Sistema de Casos de Éxito - Globant](https://github.com/EnzoAparicio/success-case-front)**
+
+**Descripción:**
+Aplicación diseñada para gestionar y mostrar casos de éxito dentro de Globant. Permite a los usuarios registrar, visualizar y filtrar casos de éxito de proyectos destacados, facilitando el acceso a información clave sobre logros y buenas prácticas en la empresa.
 
 **Repositorios:**
 - [Frontend](https://github.com/EnzoAparicio/success-case-front) - Interfaz de usuario desarrollada en ReactJS
 - [Backend](https://github.com/EnzoAparicio/success-case-back) - API REST y servicios
 
-**Tecnologías:** 
+**Tecnologías:**
 - **Frontend:** React.js, Redux, Material UI
 - **Backend:** Node.js, Express
 - **Base de datos:** PostgreSQL
+- **Autenticación:** JWT
+- **Otras características:** Gestión de usuarios, sistema de búsqueda y filtrado avanzado, interfaz responsiva
 
-**Mi rol:** Desarrollé la arquitectura backend y los endpoints REST, implementé el modelo de datos relacional y colaboré en la integración con el frontend.
+**Mi rol:**
+Desarrollo de la arquitectura backend, implementación de los endpoints REST, modelado de datos en PostgreSQL y colaboración en la integración con el frontend.
 
-### 🔹 **PencaUCU - Aplicación web de predicciones de partidos de fútbol**  
-Plataforma que permite a los usuarios predecir resultados y cantidad de goles en partidos de fútbol. 
+
+### 🔹 **[PencaUCU - Plataforma de Predicciones de Fútbol](https://github.com/EnzoAparicio/penca-ucu-front)**
+
+**Descripción:**
+PencaUCU es una plataforma web que permite a los usuarios realizar predicciones sobre partidos de fútbol. Los participantes pueden predecir los resultados y la cantidad de goles, acumulando puntos en función de su precisión.
 
 **Repositorios:**
 - [Frontend](https://github.com/EnzoAparicio/penca-ucu-front) - Interfaz de usuario desarrollada en ReactJS
 - [Backend](https://github.com/EnzoAparicio/penca-ucu-back) - API REST y servicios
 
 **Tecnologías:**
-- **Frontend:** React, Material UI
+- **Frontend:** React.js, Material UI
 - **Backend:** Node.js, Express
 - **Base de datos:** MySQL
+- **Autenticación:** JWT
+- **Otras características:** Integración con APIs externas, sistema de ranking de usuarios, interfaz responsiva
 
-**Mi rol:** Desarrollé el frontend completo, implementé el sistema de autenticación y trabajé en la integración de APIs externas.
+**Mi rol:**
+Desarrollo completo del frontend, implementación del sistema de autenticación y trabajo en la integración con APIs externas, asegurando una experiencia de usuario fluida e interactiva.
 
-### 🔹 **[FoodGuide - Aplicación Guía REST](https://github.com/EnzoAparicio/food-guide-app)**  
-Plataforma que permite a los usuarios descubrir, calificar y obtener recomendaciones personalizadas de restaurantes.
+
+### 🔹 **[ProyectoGuiaRest - Aplicación Guía REST](https://github.com/EnzoAparicio/proyectoGuiaRest)**
+
+**Descripción:**
+ProyectoGuiaRest es una aplicación web que permite a los usuarios descubrir, calificar y obtener recomendaciones personalizadas de restaurantes. Los usuarios pueden buscar restaurantes por ubicación, tipo de comida y otras preferencias, brindando una experiencia de usuario enriquecedora con opciones de búsqueda avanzada y geolocalización.
 
 **Tecnologías:**
-- **Frontend:** React, Bootstrap, Mapbox API
-- **Backend:** Node.js, Express, JWT para autenticación
-- **Base de datos:** MongoDB
-- **Características:** Geolocalización, sistema de reseñas, perfiles de usuario
+- **Frontend:** React.js
+- **Características adicionales:** Sistema de reseñas, perfiles de usuario, geolocalización para encontrar restaurantes cercanos
 
-**Mi rol:** Desarrollé el frontend completo, implementé el sistema de autenticación y trabajé en la integración de APIs externas.
+**Mi rol:**
+Desarrollo completo del frontend, implementación del sistema de autenticación, y trabajo en la integración de APIs externas, proporcionando una experiencia interactiva y personalizada para el usuario.
 
----
+
 
 ## 🚀 Skills
 
@@ -80,16 +93,6 @@ Plataforma que permite a los usuarios descubrir, calificar y obtener recomendaci
 
 ---
 
-## 🎯 Objetivos Profesionales
-Busco formar parte de equipos orientados a la innovación tecnológica, donde pueda aportar soluciones creativas y seguir desarrollando mis habilidades en:
-- Desarrollo de aplicaciones web escalables
-- Arquitectura de microservicios
-- Implementación de mejores prácticas de desarrollo
-- Colaboración en proyectos open source
-
----
-
 ## 📫 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Aparicio-blue?logo=linkedin)](https://www.linkedin.com/in/enzo-aparicio/)
 ✉️ **Correo:** enzuii@hotmail.com
-💼 **Portfolio:** [enzoaparicio.dev](https://enzoaparicio.dev)
